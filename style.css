@@ -1,0 +1,68 @@
+*{
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+.nav{
+    display: flex;
+    width: 100vw;
+    height: 70px;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+.nav-right{
+    padding-right: 30px;
+}
+
+.nav-left{
+    padding-left: 30px;
+}
+
+.nav-logo{
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.hire-btn{
+    background-color: #f36a2c;
+    padding: 8px 12px;
+    border-radius: 5px;
+    color: white;
+}
+
+.header-sec{
+    background-color:#5c2e91;
+    height: 245px;
+}
+
+.header-sec{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+
+.header-sec p{
+    margin-bottom: 25px;
+    font-size: 28px;
+}
+
+.main{
+    padding-top: 40px;
+}
+
+.main h1{
+   font-size: 30px; 
+   color: #5c2e91;
+   text-align: center;
+}
+
+.cards{
+    background-color: #e0e0e0;
+}
+
+.card{
+    background-color: white;
+}
